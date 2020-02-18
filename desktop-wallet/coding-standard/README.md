@@ -65,3 +65,5 @@ modals
 
 ### 修改日志
 
+[修改日志](./CHANGELOG.md)
+
