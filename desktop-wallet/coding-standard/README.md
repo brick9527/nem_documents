@@ -1,6 +1,9 @@
 # 编码规范
 
-[toc]
+- [编码规范](#%e7%bc%96%e7%a0%81%e8%a7%84%e8%8c%83)
+    - [TS / JS](#ts--js)
+    - [less](#less)
+    - [HTML / Vue](#html--vue)
 
 ### TS / JS
 
@@ -47,7 +50,7 @@ modals
 }
 ```
 
-### html / Vue
+### HTML / Vue
 
 - 顶层包裹容器class名应为`*-wrapper`。
 
